@@ -1,0 +1,22 @@
+{
+    "language": {
+        "Japanese": "ja",
+        "English": "en",
+        "Chinese": "zh",
+        "German": "de",
+        "Arabic": "ar",
+        "Russian": "ru"
+    },
+    "format": {
+        "prose": "",
+        "bullet_list": "情報を構造化して箇条書きに変換してください。",
+        "markdown": "階層構造を持つMarkdownに変換してください。各セクション内の文章は散文にしてください。",
+        "json": "情報を構造化してJson形式に変換してください。Key-Valueは入力と同じ言語にしてください。",
+        "convesation": "AssistantからUserへ情報を伝える会話形式にしてください。"
+    },
+    "length": [
+        "full",
+        "short_sum",
+        "long_sum"
+    ]
+}
