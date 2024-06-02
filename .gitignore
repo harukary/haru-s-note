@@ -2,5 +2,6 @@
 .venv
 .vscode
 .summaryignore
-
 Pipfile*
+
+data
